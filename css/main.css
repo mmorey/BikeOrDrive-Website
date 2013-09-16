@@ -1,0 +1,150 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+
+A {
+	text-decoration: none;
+	color: #338DC9;
+}
+
+A:hover {
+	text-decoration: none;
+	color: #FBB03B;
+}
+
+
+
+
+
+.header-left-1 {
+	height: 20px;
+	background-color: #338DC9;
+}
+.header-right-1 {
+	height: 20px;
+	background-color: #FBB03B;
+}
+.header-left-2 {
+	height: 10px;
+	background-color: #00558D;
+}
+.header-right-2 {
+	height: 10px;
+	background-color: #F6871F;
+}
+.header-left-3 {
+	height: 15px;
+	background-color: #00395E;
+}
+.header-right-3 {
+	height: 15px;
+	background-color: #E85A0C;
+}
+
+
+
+
+.content-body {
+
+}
+
+.content-body-left {
+	margin-top: 25px;
+}
+
+.content-body-right {
+	margin-top: 25px;
+}
+
+.app-screenshots img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title-logo img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main-copy {
+	margin-top: 25px;
+	font-size: large;
+	color: #999999;
+}
+
+.email-form {
+	margin-top: 25px;
+	color: #999999;
+}
+
+
+
+
+.content-footer-left {
+	text-align: center;
+}
+.content-footer-right {
+	text-align: center;
+}
+.social-icon-facebook {
+	width: 45px;
+	height: 45px;
+	display:inline-block;
+ 	background:transparent url('../img/icn_fb@2x.png') center top no-repeat;
+ 	background-size: 100% 100%;
+}
+.social-icon-facebook:hover {
+ 	background:transparent url('../img/icn_fb_active@2x.png') center top no-repeat;
+ 	background-size: 100% 100%;
+}
+.social-icon-twitter {
+	width: 45px;
+	height: 45px;
+	display:inline-block;
+ 	background:transparent url('../img/icn_twit@2x.png') center top no-repeat;
+ 	background-size: 100% 100%;
+}
+.social-icon-twitter:hover {
+ 	background:transparent url('../img/icn_twit_active@2x.png') center top no-repeat;
+ 	background-size: 100% 100%;
+}
+
+
+
+
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+	.content-body-left {
+		margin-top: 50px;
+	}
+
+	.content-body-right {
+		margin-top: 50px;
+	}
+
+	.main-copy {
+		margin-top: 50px;
+	}
+
+	.email-form {
+		margin-top: 50px;
+	}
+	.content-footer-left {
+		text-align: left;
+	}
+	.content-footer-right {
+		text-align: right;
+	}
+}
+
+
+
+
+

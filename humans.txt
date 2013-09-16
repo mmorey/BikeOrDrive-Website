@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Matthew Morey -- Developer -- @xzolian
+    Kaitlen Perkins -- Designer
+
+# THANKS
+
+    All frieds and family
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    Bootstrap, HTML5 Boilerplate
