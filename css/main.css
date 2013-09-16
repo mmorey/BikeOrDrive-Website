@@ -95,22 +95,22 @@ A:hover {
 	width: 45px;
 	height: 45px;
 	display:inline-block;
- 	background:transparent url('../img/icn_fb@2x.png') center top no-repeat;
+ 	background:transparent url('/img/icn_fb@2x.png') center top no-repeat;
  	background-size: 100% 100%;
 }
 .social-icon-facebook:hover {
- 	background:transparent url('../img/icn_fb_active@2x.png') center top no-repeat;
+ 	background:transparent url('/img/icn_fb_active@2x.png') center top no-repeat;
  	background-size: 100% 100%;
 }
 .social-icon-twitter {
 	width: 45px;
 	height: 45px;
 	display:inline-block;
- 	background:transparent url('../img/icn_twit@2x.png') center top no-repeat;
+ 	background:transparent url('/img/icn_twit@2x.png') center top no-repeat;
  	background-size: 100% 100%;
 }
 .social-icon-twitter:hover {
- 	background:transparent url('../img/icn_twit_active@2x.png') center top no-repeat;
+ 	background:transparent url('/img/icn_twit_active@2x.png') center top no-repeat;
  	background-size: 100% 100%;
 }
 
