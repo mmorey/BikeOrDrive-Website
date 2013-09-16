@@ -1,3 +1,4 @@
+safe: true
 name: "Bike or Drive iOS app"
 description: "Bike or Drive for iOS provides the quickest and easiest way to determine if today is a good day to bike or drive."
 keywords:
